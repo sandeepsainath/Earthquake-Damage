@@ -2,9 +2,10 @@
 *Modeling earthquake damage using infrastructural data*
 
 **DSS Social Good Datathon**
+
 *Team: sandeep-learning*
 
-**Contributors: Sandeep Sainath, Jiaqi Arianna Guo, Christine Zhu, Yuyang Zhong** 
+**Contributors:** Sandeep Sainath, Jiaqi Arianna Guo, Christine Zhu, Yuyang Zhong, Amanda Ma
 (ordered by Python's random.sample function)
 
 ### Our Data
