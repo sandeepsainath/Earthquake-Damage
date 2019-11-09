@@ -2,7 +2,10 @@
 *Modeling earthquake damage using infrastructural data*
 
 **DSS Social Good Datathon**
-*Team sandeep-learning*
+*Team: sandeep-learning*
+
+**Contributors: Sandeep Sainath, Jiaqi Arianna Guo, Christine Zhu, Yuyang Zhong** 
+(ordered by Python's random.sample function)
 
 ### Our Data
 2015 Nepal Earthquake Data: Building structure, ownership, use, & damages
