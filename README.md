@@ -6,7 +6,7 @@
 *Team: sandeep-learning*
 
 **Contributors:** Sandeep Sainath, Jiaqi Arianna Guo, Christine Zhu, Yuyang Zhong, Amanda Ma
-(ordered by Python's random.sample function)
+(ordered by Python's `random.sample` function)
 
 ### Our Data
 2015 Nepal Earthquake Data: Building structure, ownership, use, & damages
